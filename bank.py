@@ -8,6 +8,8 @@ def get_customer_info():
 
     return [name, address, username, password]
 
+    # THIS IS GIT TESTING ===============================
+
 def create_customer_next_id():
     with open("customers.txt", "r") as customer_file:
         # print(int(customer_file.readlines()[-1].split(",")[0][1:]) + 1)
