@@ -1,0 +1,4 @@
+C001,Sanjay,Jaffna
+C002,Nisha,Jaffna
+C003,Karthik,Colombo
+U004,Dhanush,Jaffna
